@@ -1,4 +1,4 @@
 # Python Calculator
-A simple python calculator
-I had to create a calculator that followed certain criteria for a course.
+A simple python calculator.
+Coursework. Had to follow particular criteria.
 There are errors! Feel free to fix them if you know how to.
